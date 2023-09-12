@@ -49,9 +49,9 @@
   </tr>
  <tr>
     <td align="center">Kim Jong Min</td>
-    <td align="center"></td>
-    <td align="center">Jeong Min Kayo</td>
-    <td align="center"></td>
+    <td align="center">Kim Chan Young</td>
+    <td align="center">Jeong Min Kyo</td>
+    <td align="center">Choi Noon Sol</td>
   </tr>
 </table>
 
@@ -69,9 +69,9 @@
     <td align="center"><a href="https://github.com/geeeeesu"><b>이지수</b></td>
   </tr>
  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">Kim Yeong Sik</td>
+    <td align="center">Lee Seong Kyun</td>
+    <td align="center">Lee Ji Su</td>
   </tr>
 </table>
 
