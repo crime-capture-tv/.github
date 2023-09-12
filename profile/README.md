@@ -25,7 +25,7 @@
     <td align="center"><a href="https://github.com/juunewon"><b>이주원</b></td>
   </tr>
  <tr>
-    <td align="center">Kim Na Young</td>
+    <td align="center">Kim Na Yeong</td>
     <td align="center">Park Tae Geun</td>
     <td align="center">Yi Ju Won</td>
   </tr>
@@ -34,9 +34,9 @@
 ### AI
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/jongminKims"><img src="https://avatars.githubusercontent.com/jongminKims" width="150px;" alt="">
     <td align="center"><a href="https://github.com/cykim1228"><img src="https://avatars.githubusercontent.com/cykim1228" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/MInkayoJeong1"><img src="https://avatars.githubusercontent.com/MInkayoJeong1" width="150px;" alt="">
     <td align="center"><a href="https://github.com/choiary"><img src="https://avatars.githubusercontent.com/choiary" width="150px;" alt="">
     </td>
   </tr>
@@ -48,9 +48,9 @@
       
   </tr>
  <tr>
+    <td align="center">Kim Jong Min</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">Jeong Min Kayo</td>
     <td align="center"></td>
   </tr>
 </table>
