@@ -36,14 +36,14 @@
   <tr>
     <td align="center"><a href="https://github.com/jongminKims"><img src="https://avatars.githubusercontent.com/jongminKims" width="150px;" alt="">
     <td align="center"><a href="https://github.com/cykim1228"><img src="https://avatars.githubusercontent.com/cykim1228" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/MInkayoJeong1"><img src="https://avatars.githubusercontent.com/MInkayoJeong1" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/MinkyoJeong1"><img src="https://avatars.githubusercontent.com/MinkyoJeong1" width="150px;" alt="">
     <td align="center"><a href="https://github.com/choiary"><img src="https://avatars.githubusercontent.com/choiary" width="150px;" alt="">
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/"><b>김종민</b></td>
+    <td align="center"><a href="https://github.com/jongminKims"><b>김종민</b></td>
     <td align="center"><a href="https://github.com/cykim1228"><b>김찬영</b></td>
-    <td align="center"><a href="https://github.com/"><b>정민교</b></td>
+    <td align="center"><a href="https://github.com/MinkyoJeong1"><b>정민교</b></td>
     <td align="center"><a href="https://github.com/choiary"><b>최눈솔</b></td>
       
   </tr>
