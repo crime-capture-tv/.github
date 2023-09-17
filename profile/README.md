@@ -3,7 +3,7 @@
 [개발과 세발사이 Server repository](https://github.com/crime-capture-tv/server)
 
 ## AI Repository
-[개발과 세발사이 AI repository](https"//github.com/crime-capture-tv/AI-server)
+[개발과 세발사이 AI repository](https://github.com/crime-capture-tv/AI-server)
 
 <br>
 
